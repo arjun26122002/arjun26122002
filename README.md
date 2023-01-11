@@ -15,6 +15,7 @@ I am a front-end developer, passionate about making a full-stack web developer. 
 src="https://img.shields.io/twitter/follow/ArjunDe84845403?logo=twitter&style=for-the-badge&color=ef4444&labelColor=831843"
 /></a>
 
+<img width="100%" alt="game gif" src="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn/fullscreen"/>
 ### Skills
 
 
