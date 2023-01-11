@@ -47,3 +47,5 @@ src="https://img.shields.io/twitter/follow/ArjunDe84845403?logo=twitter&style=fo
 <a href="http://www.github.com/arjun26122002"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=arjun26122002&bg_color=831843&color=ffffff&line=ef4444&point=ffffff&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/arjun26122002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun26122002&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
