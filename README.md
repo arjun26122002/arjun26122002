@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arjun Dey
 =================================================================================================================================
 
-Front-End devaloper,Student,
+Front-End developer,Student.
 ----------------------------
 
 I am a front-end developer, passionate about making a full-stack web developer. I am a responsible and dependable student who takes the initiative and follows through on my commitments.
