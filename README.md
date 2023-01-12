@@ -14,6 +14,7 @@ I am a front-end developer, passionate about making a full-stack web developer. 
 <a href="https://www.twitter.com/ArjunDe84845403" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ArjunDe84845403?logo=twitter&style=for-the-badge&color=ef4444&labelColor=831843"
 /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun26122002&label=Profile%20views&color=0e75b6&style=flat" alt="arjun26122002" /> </p>
 
 <img align="right" alt="game gif" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 ### Skills
