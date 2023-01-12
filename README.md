@@ -16,7 +16,7 @@ src="https://img.shields.io/twitter/follow/ArjunDe84845403?logo=twitter&style=fo
 /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun26122002&label=Profile%20views&color=0e75b6&style=flat" alt="arjun26122002" /> </p>
 
-<img align="right" alt="game gif" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" width="400px" alt="game gif" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 ### Skills
 
 
