@@ -44,9 +44,9 @@ src="https://img.shields.io/twitter/follow/ArjunDe84845403?logo=twitter&style=fo
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamb2003&&show_icons=true&theme=tokyonight" alt="arjun26122002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun26122002&&show_icons=true&theme=tokyonight" alt="arjun26122002" /></p>
 
-<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=subhamb2003&&show_icons=true&theme=tokyonight" alt="arjun26122002" /></p>
+<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=arjun26122002&&show_icons=true&theme=tokyonight" alt="arjun26122002" /></p>
 
 <a href="http://www.github.com/arjun26122002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun26122002&stroke=ffffff&background=831843&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
