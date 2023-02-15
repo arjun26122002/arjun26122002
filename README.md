@@ -50,6 +50,8 @@ src="https://img.shields.io/twitter/follow/ArjunDe84845403?logo=twitter&style=fo
 
 <a href="http://www.github.com/arjun26122002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun26122002&stroke=ffffff&background=831843&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun26122002&&show_icons=true&theme=tokyonight" alt="arjun26122002" /></p>
+
 <a href="http://www.github.com/arjun26122002"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=arjun26122002&bg_color=831843&color=ffffff&line=ef4444&point=ffffff&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
