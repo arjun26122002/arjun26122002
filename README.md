@@ -1,25 +1,25 @@
 ![Banner](https://github.com/arjun26122002/arjun26122002/blob/main/Cover%20photo.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Arjun+Dey+👋;Software+Engineer+%7C+Full-Stack+Developer;AI-Enabled+Web+Applications;Team+Lead+%7C+Mentor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Arjun+Dey+👋;Software+Engineer;Full-Stack+Developer;AI-Enabled+Web+Applications;Team+Lead+%7C+Mentor" />
 </p>
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+---
 
-<h2>🚀 About Me</h2>
+## 🚀 About Me
 
-I am a **Computer Science graduate and Software Engineer** with **~2 years of experience** in building **scalable full-stack and AI-powered applications**.
+I am a **Computer Science graduate and Software Engineer** with **~2 years of experience** building **scalable full-stack and AI-powered applications**.
 
-- 💻 Full-Stack: React.js, TypeScript, Node.js, NestJS  
-- 🤖 AI: LLMs, RAG, Vector Databases, Hugging Face  
-- 👥 Team Lead managing a **14-member development team**  
+- 💻 **Full-Stack:** React.js, TypeScript, Node.js, NestJS  
+- 🤖 **AI:** LLMs, RAG, Vector Databases, Hugging Face  
+- 👥 **Team Lead** managing a 14-member development team  
 - ⚡ Focused on performance, clean architecture & mentoring  
 
 📍 **Kolkata, India**
 
 ---
 
-<h2>🧠 Tech Stack</h2>
+## 🧠 Tech Stack
 
 **Languages**  
 `Java` `C` `JavaScript` `TypeScript` `Python` `SQL` `HTML` `CSS`
@@ -45,12 +45,12 @@ I am a **Computer Science graduate and Software Engineer** with **~2 years of ex
 
 ---
 
-<h2>💼 Experience</h2>
+## 💼 Experience
 
-**Software Engineer — INFOMATICAE TECHNOLOGY PVT LTD**  
-_Feb 2024 – Present | Kolkata_
+### Software Engineer — INFOMATICAE TECHNOLOGY PVT LTD  
+**Feb 2024 – Present | Kolkata**
 
-- Built and enhanced a **Diamond ERP** using React, TypeScript, Material-UI & NestJS  
+- Built and enhanced a **Diamond ERP platform** using React, TypeScript, Material-UI & NestJS  
 - Developed REST APIs with PostgreSQL + TypeORM  
 - Integrated **Razorpay payment gateway**  
 - Implemented **real-time messaging** using Socket.io  
@@ -60,8 +60,8 @@ _Feb 2024 – Present | Kolkata_
 
 ---
 
-**Software Engineer — TCM STUNNER IT CONSULTANT LLP**  
-_Jul 2023 – Jan 2024 | Kolkata_
+### Software Engineer — TCM STUNNER IT CONSULTANT LLP  
+**Jul 2023 – Jan 2024 | Kolkata**
 
 - Developed web & mobile UI using React.js, React Native & Tailwind CSS  
 - Implemented backend services using Express.js  
@@ -70,20 +70,20 @@ _Jul 2023 – Jan 2024 | Kolkata_
 
 ---
 
-<h2>📌 Projects</h2>
+## 📌 Projects
 
-**🎯 KBC Clone**  
-_React, CSS_  
+### 🎯 KBC Clone  
+**Tech:** React, CSS  
 - Interactive quiz application using React hooks and state management  
 
-**🌐 Net Vibe (Social Media App)**  
-_React, Node.js, Express, Redux Toolkit, MongoDB_  
+### 🌐 Net Vibe (Social Media App)  
+**Tech:** React, Node.js, Express, Redux Toolkit, MongoDB  
 - Like, save, edit, and delete posts  
 - Full REST API-based architecture  
 
 ---
 
-<h2>🏆 Key Contributions</h2>
+## 🏆 Key Contributions
 
 - 👥 Led and coordinated a **14-member engineering team**  
 - 🔗 Owned **project dependencies** & cross-team collaboration  
@@ -93,14 +93,14 @@ _React, Node.js, Express, Redux Toolkit, MongoDB_
 
 ---
 
-<h2>🏅 Achievements</h2>
+## 🏅 Achievements
 
 - 🥇 **Hackathon – Diversion 2024**  
 - Built **Cryptonite**, an Ethereum-based anonymous charity donation platform  
 
 ---
 
-<h2>🎓 Education</h2>
+## 🎓 Education
 
 **B.Tech in Computer Science & Engineering**  
 Supreme Knowledge Foundation  
@@ -108,7 +108,7 @@ CGPA: **8.65 / 10**
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arjun26122002&show_icons=true&theme=tokyonight" />
@@ -118,13 +118,9 @@ CGPA: **8.65 / 10**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun26122002&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun26122002&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
-<h2>🤝 Connect With Me</h2>
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:arjun.dey.2612@gmail.com">📧 Email</a> •
@@ -135,9 +131,9 @@ CGPA: **8.65 / 10**
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
-✨ Thank you for visiting my profile — let’s build something impactful together!
+✨ Thank you for visiting my profile!
 </p>
