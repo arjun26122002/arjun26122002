@@ -105,9 +105,13 @@ I am a **Computer Science graduate and Software Engineer** with **~2 years of ex
 **B.Tech in Computer Science & Engineering**  
 Supreme Knowledge Foundation  
 CGPA: **8.65 / 10**
+**Higher Secondary (WBBCHSE)**  
+Bally Nischinda Chittaranjan Vidyalaya 
+marks: 85.6%
 
----
-
+** Secondary (WBBSE)**  
+Bally Nischinda Chittaranjan Vidyalaya 
+marks: 59.8%
 ---
 
 ## 🤝 Connect With Me
