@@ -1,7 +1,7 @@
 ![Banner](https://github.com/arjun26122002/arjun26122002/blob/main/Cover%20photo.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Arjun+Dey;Software+Engineer;Full-Stack+Developer;AI-Enabled+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Arjun+Dey+👋;Software+Engineer;Full-Stack+Developer;AI-Enabled+Web+Applications;Team+Lead+%7C+Mentor" />
 </p>
 
 ---
@@ -21,18 +21,101 @@ I am a **Computer Science graduate and Software Engineer** with **~2 years of ex
 
 ## 🧠 Tech Stack
 
-`Java` `C` `JavaScript` `TypeScript` `Python` `SQL` `HTML` `CSS`  
-`React.js` `Next.js` `Node.js` `Express.js` `NestJS`  
-`PostgreSQL` `MongoDB` `Vector Databases`  
-`LLMs` `RAG` `Hugging Face`  
+**Languages**  
+`Java` `C` `JavaScript` `TypeScript` `Python` `SQL` `HTML` `CSS`
+
+**Frameworks & Libraries**  
+`React.js` `Next.js` `Node.js` `Express.js` `NestJS` `FastAPI`  
+`Redux Toolkit` `REST APIs`
+
+**Databases**  
+`PostgreSQL` `MongoDB` `Vector Databases`
+
+**AI / GenAI**  
+`LLMs` `RAG` `Text Embeddings` `Hugging Face (SadTalker)`
+
+**Real-Time & Payments**  
+`Socket.io` `Razorpay`
+
+**UI & Styling**  
+`Material-UI` `Tailwind CSS`
+
+**DevOps & Tools**  
 `Docker` `Git` `GitHub` `Linux`
+
+---
+
+## 💼 Experience
+
+### Software Engineer — INFOMATICAE TECHNOLOGY PVT LTD  
+**Feb 2024 – Present | Kolkata**
+
+- Built and enhanced a **Diamond ERP platform** using React, TypeScript, Material-UI & NestJS  
+- Developed REST APIs with PostgreSQL + TypeORM  
+- Integrated **Razorpay payment gateway**  
+- Implemented **real-time messaging** using Socket.io  
+- Built **AI-powered academic platforms** (Virtual School, Hello Teacher, Power School)  
+- Implemented **LLM-based content generation, semantic search & RAG pipelines**  
+- Created **AI-driven 3D animation videos** using Hugging Face SadTalker  
+
+---
+
+### Software Engineer — TCM STUNNER IT CONSULTANT LLP  
+**Jul 2023 – Jan 2024 | Kolkata**
+
+- Developed web & mobile UI using React.js, React Native & Tailwind CSS  
+- Implemented backend services using Express.js  
+- Managed PostgreSQL databases with TypeORM  
+- Improved performance and user experience collaboratively  
+
+---
+
+## 📌 Projects
+
+### 🎯 KBC Clone  
+**Tech:** React, CSS  
+- Interactive quiz application using React hooks and state management  
+
+### 🌐 Net Vibe (Social Media App)  
+**Tech:** React, Node.js, Express, Redux Toolkit, MongoDB  
+- Like, save, edit, and delete posts  
+- Full REST API-based architecture  
+
+---
+
+## 🏆 Key Contributions
+
+- 👥 Led and coordinated a **14-member engineering team**  
+- 🔗 Owned **project dependencies** & cross-team collaboration  
+- ⚙️ Delivered **Full-Stack & AI-enabled solutions**  
+- 📄 Strengthened **technical & client documentation**  
+- 🚀 Improved delivery efficiency with structured planning  
+
+---
+
+## 🏅 Achievements
+
+- 🥇 **Hackathon – Diversion 2024**  
+- Built **Cryptonite**, an Ethereum-based anonymous charity donation platform  
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science & Engineering**  
+Supreme Knowledge Foundation  
+CGPA: **8.65 / 10**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjun26122002&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjun26122002&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun26122002&theme=tokyonight" />
 </p>
 
 ---
@@ -48,9 +131,9 @@ I am a **Computer Science graduate and Software Engineer** with **~2 years of ex
 ---
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/main/demo/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
-✨ Thanks for visiting my profile!
+✨ Thank you for visiting my profile!
 </p>
