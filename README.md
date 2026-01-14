@@ -1,55 +1,135 @@
-![logo](https://github.com/arjun26122002/arjun26122002/blob/main/Cover%20photo.png)
+![Banner](https://github.com/arjun26122002/arjun26122002/blob/main/Cover%20photo.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arjun Dey
-==================================================================================================================================
-Front-End developer,Student.
-----------------------------
+<h1 align="center">Hi 👋, I'm Arjun Dey</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI-Enabled Web Apps</h3>
 
-I am a front-end developer, passionate about making a full-stack web developer. I am a responsible and dependable student who takes the initiative and follows through on my commitments.
-
-* 🌍  I'm based in Howrah,India
-* 🖥️  See my portfolio at [Arjun Dey](http://arjun-portfolio-site.netlify.app/)
-* ✉️  You can contact me at [arjun.dey.2612@gmail.com](mailto:arjun.dey.2612@gmail.com)
-* 🧠  I'm learning Node.js,Express.js
-
-<a href="https://www.twitter.com/ArjunDe84845403" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ArjunDe84845403?logo=twitter&style=for-the-badge&color=ef4444&labelColor=831843"
-/></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun26122002&label=Profile%20views&color=0e75b6&style=flat" alt="arjun26122002" /> </p>
-<img align="right" width="400px" alt="game gif" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-### Skills
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <a href="mailto:arjun.dey.2612@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/arjun-dey-a49464211/">LinkedIn</a> •
+  <a href="http://arjun-portfolio-site.netlify.app/">Portfolio</a>
 </p>
-### Socials
 
-<p align="left"> <a href="https://discord.com/users/Arjun#9212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/profile.php?id=100024957380620" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/arjun26122002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/btwitsarjun/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arjun-dey-a49464211/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19214968/arjun-dey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ArjunDe84845403" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://leetcode.com/deyArjun2612/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deyArjun2612" height="30" width="40" /></a></p>
+---
 
-### Badges
+## 🚀 About Me
 
-<b>My GitHub Stats</b>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun26122002&&show_icons=true&theme=tokyonight" alt="arjun26122002" /></p> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamb2003&&show_icons=true&theme=tokyonight" alt="arjun26122002" /></p>
+I am a **Computer Science graduate and Software Engineer** with **~2 years of experience** in building **scalable, user-centric full-stack applications**.
 
-<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=arjun26122002&&show_icons=true&theme=tokyonight" alt="arjun26122002" /></p>
-<!-- 
-<a href="http://www.github.com/arjun26122002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun26122002&stroke=ffffff&background=831843&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
+- 🔹 Strong experience in **React.js, TypeScript, Node.js, NestJS**
+- 🔹 Currently working as a **Team Lead** managing a **14-member development team**
+- 🔹 Hands-on experience with **AI-powered platforms, LLMs, RAG, and Vector Databases**
+- 🔹 Passionate about **clean architecture, performance optimization, and mentoring**
 
-<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun26122002&&show_icons=true&theme=tokyonight" alt="arjun26122002" /></p>
+📍 **Location:** Kolkata, India
 
-<a href="http://www.github.com/arjun26122002"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=arjun26122002&bg_color=831843&color=ffffff&line=ef4444&point=ffffff&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
+## 🧠 Tech Stack
 
-<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
-<p align="center">Thank you so much for coming ☺️🙏</p>
+### 💻 Languages
+`Java` `C` `JavaScript` `TypeScript` `Python` `SQL` `HTML` `CSS`
 
+### ⚙️ Frameworks & Libraries
+`React.js` `Next.js` `Node.js` `Express.js` `NestJS` `FastAPI`  
+`Redux Toolkit` `REST APIs`
+
+### 🗄️ Databases
+`PostgreSQL` `MongoDB` `Vector Databases`
+
+### 🤖 AI / GenAI
+`LLMs` `RAG (Retrieval-Augmented Generation)`  
+`Text Embeddings` `Hugging Face (SadTalker)`
+
+### 🔄 Real-Time & Payments
+`Socket.io (WebSockets)` `Razorpay`
+
+### 🎨 UI & Styling
+`Material-UI` `Tailwind CSS`
+
+### 🛠️ DevOps & Tools
+`Docker` `Git` `GitHub` `Linux`
+
+---
+
+## 💼 Experience
+
+### **Software Engineer** — INFOMATICAE TECHNOLOGY PVT LTD  
+📅 Feb 2024 – Present | Kolkata
+
+- Built and enhanced a **Diamond ERP platform** using React, TypeScript, Material-UI, and NestJS
+- Developed **REST APIs** with PostgreSQL + TypeORM
+- Integrated **Razorpay payment gateway**
+- Implemented **real-time messaging** using Socket.io
+- Built **AI-powered academic platforms** (Virtual School, Hello Teacher, Power School)
+- Implemented **LLM-based content generation**, **semantic search**, and **RAG pipelines**
+- Created **AI-driven 3D animation videos** using Hugging Face SadTalker
+
+---
+
+### **Software Engineer** — TCM STUNNER IT CONSULTANT LLP  
+📅 Jul 2023 – Jan 2024 | Kolkata
+
+- Developed web & mobile UI using **React.js, React Native, Tailwind CSS**
+- Built backend services using **Express.js**
+- Managed PostgreSQL databases with **TypeORM**
+- Improved performance and user experience through collaboration
+
+---
+
+## 📌 Projects
+
+### 🎯 KBC Clone  
+**Tech:** React, CSS  
+- Quiz-based application using React hooks and state management
+
+### 🌐 Net Vibe (Social Media App)  
+**Tech:** React, Node.js, Express, Redux Toolkit, MongoDB  
+- Like, save, edit, and delete posts  
+- REST API based full-stack application
+
+---
+
+## 🏆 Key Contributions
+
+- 👥 Led and coordinated a **14-member engineering team**
+- 🔗 Owned **project dependencies** and cross-team collaboration
+- ⚙️ Delivered **Full-Stack & AI-enabled solutions**
+- 📄 Strengthened **technical & client documentation**
+- 🚀 Improved delivery efficiency with better planning
+
+---
+
+## 🏅 Achievements
+
+- 🥇 **Hackathon – Diversion 2024**
+- Built **Cryptonite**, an Ethereum-based anonymous charity donation platform
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science & Engineering**  
+Supreme Knowledge Foundation  
+📊 CGPA: **8.65 / 10**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjun26122002&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun26122002&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun26122002&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+✨ Thank you for visiting my profile! Let’s build something impactful together.
+</p>
